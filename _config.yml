@@ -22,8 +22,8 @@ title: Pro-xChange
 email: karol.krawiecki@kedgebs.com
 description: >- # this means to ignore newlines until "baseurl:"
   Change text here!
-baseurl: "/pro-xchange" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://pro-xchange.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KrawieckiKarol
 github_username:  meyday7
 
