@@ -1,5 +1,5 @@
 ---
-layout: tag
+layout: category
 title: France
 taxonomy: france
 ---
