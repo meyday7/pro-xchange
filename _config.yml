@@ -23,7 +23,7 @@ email: karol.krawiecki@kedgebs.com
 description: >- # this means to ignore newlines until "baseurl:"
   Change text here!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pro-xchange.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KrawieckiKarol
 github_username:  meyday7
 
