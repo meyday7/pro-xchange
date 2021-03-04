@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example post about housing in France
-tags: housing france
+category: france
+tags: housing
 ---
 So here normally we would find a post about housing in France.
