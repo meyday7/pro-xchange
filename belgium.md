@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: category
 title: Belgium
+taxonomy: belgium
 ---
-# Here is all info about Belgium.
+Here you can find all the posts related to living in Belgium!
