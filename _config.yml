@@ -28,6 +28,7 @@ twitter_username: KrawieckiKarol
 github_username:  meyday7
 google_analytics: G-M8D32Q7NFP
 search: true
+logo: /assets/images/logo.png
 
 # Build settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
