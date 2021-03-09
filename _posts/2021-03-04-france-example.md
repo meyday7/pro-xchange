@@ -1,8 +1,16 @@
 ---
 layout: post
-title: Example post about housing in France
-category: france
-tags: housing
+title: Welcome to Pro-xChange blog!
+categories: france belgium
+tags: introduction
 read_time: true
 ---
-So here normally we would find a post about housing in France.
+## Welcome to our blog!
+
+We are truly glad to have you here!
+
+### Introduction
+
+This blog was created with an idea of providing all information relevant for the students of KEDGE Business School or KU Leuven who plan on going on exchange between these two universities.
+
+In this first post we would like to talk about the opportunities those exchanges can offer and why should you go for it yourself!

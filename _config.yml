@@ -21,11 +21,10 @@
 title: Pro-xChange
 email: karol.krawiecki@kedgebs.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Change text here!
+  Blog from students about exchange between KEDGE BS and KU Leuven!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KrawieckiKarol
-github_username:  meyday7
 google_analytics: G-M8D32Q7NFP
 search: true
 logo: /assets/images/logo.png
