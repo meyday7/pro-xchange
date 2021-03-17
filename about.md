@@ -11,5 +11,4 @@ We are Daiana Roxana Botezatu and Karol Krawiecki. Our goal is to provide studen
 
 I am 21 years old student currently studying at KEDGE Business School within KU Leuven's Double Degree programme of Bachelor of Business Administration. In my spare time, I am learning Data Science, play occassional chess and follow world of automotives.
 
-### 
-
+### Daiana Roxana Botezatu
