@@ -2,5 +2,8 @@
 layout: category
 title: France
 taxonomy: france
+published: true
 ---
-This is where we will keep all the posts related to living in France.
+## This is where we keep all the posts related to living in France.
+
+All you need to do here is to scroll down and find the post of interest!
