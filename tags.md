@@ -1,7 +1,7 @@
 ---
 layout: tags
 title: Tags
-published: true
+published: false
 ---
 ## Here you can find all different tags, depending on what do you need!
 
