@@ -18,4 +18,4 @@ We will be posting **every other week** (starting from 24th of March), so be sur
 
 For more information about us, feel free to check top right corner and "About Us" section.
 
-![Alt text]({{site.baseurl}}/assets/images/welcome.jpg)
+![Welcome image](/assets/images/welcome.jpg)
