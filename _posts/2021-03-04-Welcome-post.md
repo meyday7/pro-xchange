@@ -17,3 +17,6 @@ This blog was created with an idea of providing all information relevant for the
 We will be posting **every other week** (starting from 24th of March), so be sure to check what's new!
 
 For more information about us, feel free to check top right corner and "About Us" section.
+
+![Alt text]({{site.baseurl}}/_posts/welcome.jpg)
+
