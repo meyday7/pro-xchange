@@ -2,6 +2,9 @@
 layout: about
 title: About us
 published: true
+author:
+  name: Daiana Roxana Botezatu & Karol Krawiecki
+  picture: /assets/images/about_image.JPG
 ---
 ## Thank you for checking the website!
 
