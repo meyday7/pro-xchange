@@ -14,7 +14,11 @@ This blog was created with the idea of providing relevant and useful information
 
 We will be posting **every other week** (starting from 24th of March). So be sure to check what’s new! We will be posting information on different topics like housing, culture, tourism, administration and student life.
 
-For more information about us, feel free to check the top right corner and the “About Us” section. There you can also find the information categorized based on the country you are planning to go on exchange. 
+For more information about us, feel free to check the top right corner and the “About Us” section. There (soon!) you will be able to find the information categorized based on the country you are planning to go on exchange.
+
+Please make sure to follow us on our Instagram and Facebook pages for updates on new posts and some beautiful places in Marseille and Brussels.
+
+Finally, in case you have any questions, which we have not discussed on this blog, do not hesitate to reach us through our email next to our social media's. You can also drop us a message on those!
 
 
 ![Welcome image](/assets/images/welcome.jpg)
