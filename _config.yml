@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: proxchange.me
 facebook_username: Pro-xchange-104604118384268
 google_analytics: G-M8D32Q7NFP
+disqus:
+    shortname: pro-xchange
 search: true
 logo: /assets/images/logo.png
 
