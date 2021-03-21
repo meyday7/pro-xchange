@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Pro-xChange blog!
+title: Welcome to Pro-xChange!
 categories: france belgium
 tags: introduction
 read_time: true
