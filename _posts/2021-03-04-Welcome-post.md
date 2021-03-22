@@ -18,4 +18,4 @@ For more information about us, feel free to check the top right corner and the â
 
 Please make sure to follow us on our Instagram and Facebook pages for updates on new posts and some beautiful places in Marseille and Brussels.
 
-Finally, in case you have any questions, which we have not discussed on this blog, do not hesitate to reach us through our email (pro-xchange.me@gmail.com) next to our social media's. You can also drop us a message there!
+Finally, in case you have any questions, which we have not discussed on this blog, do not hesitate to reach us through our email (team@pro-xchange.me) next to our social media's. You can also drop us a message there!
