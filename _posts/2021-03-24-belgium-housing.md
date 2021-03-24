@@ -5,6 +5,7 @@ category: belgium
 tag: housing
 read_time: true
 published: false
+image: /assets/images/belgium_housing_hero.jpeg
 ---
 One of the important aspects of going on exchange is finding a good accomodation. While you might spend lots of time outside, it is something that you will be coming to and where you will be sleeping. That is why first informational post will be all about finding a good **housing in Belgium**. We will discuss:
 
@@ -26,7 +27,7 @@ However, I can assure you that it is not very hard to find a nice appartement wi
 
 Now to the main point - when looking for an appartment online, you can use private websites (there are plenty of those!) or you can use KU Leuven's renting website (only works for Leuven - another city that is 25 minutes away with train).
 
-[The website of KU Leuven](https://www.kuleuven.be/english/life-at-ku-leuven/housing/find-housing/students/student-housing-leuven) offers relatively cheap housing in the city of Leuven (starting from 240 euros at the time of uploading this post) - where the main campus of KU Leuven is. However, for your exchange you will be studying in Brussels. That implies travelling between Leuven and Brussels. The train subscription costs around 270 euros and works only for the specific connection (meaning that when you will make the card, you will be asked to give your connection - in this case _Leuven - Brussels_). For more information about the student card, take a look at the website of [Belgian train company](https://www.belgiantrain.be/en). 
+[The website of KU Leuven](https://www.kuleuven.be/english/life-at-ku-leuven/housing/find-housing/students/student-housing-leuven) offers relatively cheap housing in the city of Leuven (starting from 240 euros at the time of uploading this post) - where the main campus of KU Leuven is. However, for your exchange you will be studying in Brussels. That implies travelling between Leuven and Brussels. The train subscription costs around 270 euros and works only for the specific connection (meaning that when you will make the card, you will be asked to give your connection - in this case _Leuven - Brussels_). For more information about the student card, take a look at the website of [Belgian train company](https://www.belgiantrain.be/en).
 
 However, if you prefer to live in Brussels (which I did), then you are left with looking for different accomodation offers online. In order to find a different possible websites, all it takes is checking google for _student accomodation in Brussels_. However, I will provide few websites of interest below.
 
