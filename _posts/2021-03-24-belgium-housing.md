@@ -1,8 +1,8 @@
 ---
 layout: post
-title: School in Belgium
+title: Housing in Belgium
 category: belgium
-tag: school
+tag: housing
 read_time: true
 published: false
 ---
