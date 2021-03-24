@@ -100,3 +100,9 @@ Since I couldn't categorize the following information in any of the sections abo
 If you have managed to go through everything in this post, then GOOD JOB! It is a lot of information, but knowledge is power, so knowing how it works in Brussels with housing will make your exchange easier and nicer experience!
 
 I would like to thank you very much for checking out our blog and reading this post! If you find yourself confused about anything or you would like to ask us anything, feel free to comment below, message us on our social media in the sidebar (available from the top right). If you want to send us an email, our official email is: team@pro-xchange.me
+
+## Links
+
+[Travelling to KU Leuven](https://silo.tips/download/travelling-to-ku-leuven-2) document is helpful for any sort of arrangements to be made when coming to Belgium. We will also cover most of these on this blog in the coming days.
+
+[Virtual tour](https://feb.kuleuven.be/eng/contact/campus-brussels) is a great opportunity for you to visit the area around the school online!
