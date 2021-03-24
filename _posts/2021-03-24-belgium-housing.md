@@ -70,7 +70,8 @@ That is why plenty of offers online will already mention if it is possible to ge
 
 Like almost every city on this planet, there are better and worse place to live in. Brussels is no exception and it is worth knowing where it is safe or not. Below you can find a map of Brussels with division for different districts:
 
-Put image here!
+![Communes in Brussels]({{site.baseurl}}/assets/images/communes.jpeg)
+
 
 To put it simply, Brussels is pretty safe space. In the city center (Ville de Bruxelles) there is a higher activity of pickpocketers, so watch out for your belongings when you go for city stroll! The districts with highest crime rates are:
 
