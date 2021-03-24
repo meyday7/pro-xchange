@@ -6,6 +6,7 @@ tag: housing
 read_time: true
 published: true
 image: /assets/images/belgium_housing_hero.jpeg
+author: karol
 ---
 One of the important aspects of going on exchange is finding a good accomodation. While you might spend lots of time outside, it is something that you will be coming to and where you will be sleeping. That is why first informational post will be all about finding a good **housing in Belgium**. We will discuss:
 

@@ -2,7 +2,7 @@
 layout: category
 title: Belgium
 taxonomy: belgium
-published: false
+published: true
 ---
 ## Here you can find all the posts related to living in Belgium!
 
