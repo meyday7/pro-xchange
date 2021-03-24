@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Welcome to Pro-xChange!
-categories: france belgium
 read_time: true
 published: true
 image: /assets/images/welcome.jpg
