@@ -4,7 +4,7 @@ title: Administration in Belgium
 category: belgium
 tag: administration
 read_time: true
-published: false
+published: true
 image: null
 author: karol
 ---
