@@ -28,14 +28,14 @@ At KEDGE, there are only language requirements for the double degree programme. 
 
 KEDGE students, who wish to follow the courses at KU Leuven for the double degree programme, will go through the registration that is similar for all international students on the KU Leuven side. Remember this date: **1st of June** is the deadline for the application for the double degree programme for European Economic Area (EEA) citizens! This means that if you are registered as a citizen in France, this is the deadline to follow. For students, who have citizenship outside of EEA (check this [link](https://en.wikipedia.org/wiki/European_Economic_Area) for more information on members of EEA), the deadline is **1 March**. However, in both cases, it is advised to apply as soon as possible before these dates.
 
-The first requirement at the Belgian uni is to provide the diploma of secondary education. Given that most students received their secondary education in France, the french secondary education diploma will be sufficient. It is important to provide the school with both the original document, as well as the official **translated** version in English (translated by certified translator).
+The first requirement at the Belgian uni is to provide a diploma of secondary education. Given that most students received their secondary education in France, the french secondary education diploma will be sufficient. It is important to provide the school with both the original document, as well as the official **translated** version in English (translated by certified translator).
 
 It might be required, upon arrival in Belgium, to go through _a diploma check_. This is a process done by the registrar's office in Leuven, to make sure the legitimate diploma is provided to the school. Currently, there are two ways it can be done: electronically or in person. For electronic processing, you need to provide proof of graduation through a secured digital document. Citing the information on the website of KU Leuven, it is possible through:
 
 - A secured PDF of your degree/graduation statement/transcript with electronic signature,
 - A degree/graduation statement/transcript with a working QR code,
 - A verification website of your previous educational institution where we can verify your degree (in this case make sure to send us the password or verification code we will need for the verification),
-- An official confirmation of your graduation sent to us via email by the responsible staff of your previous educational institution
+- Official confirmation of your graduation sent to us via email by the responsible staff of your previous educational institution
 
 However, assuming that your secondary education institution does not provide digital documents eligible for an electronic diploma check, you will be required to visit the city of Leuven (the address: Naamsestraat 22, Leuven, Belgium for the office verifying your documents).
 
@@ -53,19 +53,19 @@ For classic exchange (one semester or one year long), the steps are slightly sim
 
 - ID photo
 - Copy of identity card or passport
-- Transcript of Records of all grades from previous semester/years (to show how many ECTS/credits you have achieved up until now)
-- Proof of proficiency in english
+- Transcript of Records of all grades from the previous semester/years (to show how many ECTS/credits you have achieved up until now)
+- Proof of proficiency in English
 - Learning agreement
 
 Regarding the transcript of records, it is important to provide KU Leuven with officially **signed** and **stamped** documents confirming the authenticity.
 
-For proof of proficiency in English, there are few options available. Firstly, students can request a document from KEDGE stating that the student is registered for an English-taught course (in case that is the situation of course :D). Secondly, students can ask the university to provide a certificate confirming that the student possesses a sufficient level of English. One of those two methods normally should work and are recommended. However, if for some reasons it is not possible, a student can also take an examination like TOEFL, IELTS or Cambridge Assessment confirming that he or she possesses level B1. Lastly, the learning agreement is a document necessary for the erasmus programme. KU Leuven officials will provide you with the document and will guide you on how to fill it in.
+For proof of proficiency in English, there are few options available. Firstly, students can request a document from KEDGE stating that the student is registered for an English-taught course (in case that is the situation of course :D). Secondly, students can ask the university to provide a certificate confirming that the student possesses a sufficient level of English. One of those two methods normally should work and are recommended. However, if for some reasons it is not possible, a student can also take an examination like TOEFL, IELTS or Cambridge Assessment confirming that he or she possesses level B1. Lastly, the learning agreement is a document necessary for the Erasmus programme. KU Leuven officials will provide you with the document and will guide you on how to fill it in.
 
 As with a double degree programme, classic exchanges can take from 4 to 8 weeks to be processed. The progress of application acceptance can be followed on the website through which the application was made, so again, make sure to keep the logins and passwords! The final preparation done in person will be communicated to you personally before the beginning of the school year/semester.
 
 ## Registration in the town hall
 
-_This section is only relevant for double degree students, so if you do not plan on doing double degree, you can move directly to 'final words' section of this post!_
+_This section is only relevant for double degree students, so if you do not plan on doing a double degree, you can move directly to the 'final words' section of this post!_
 
 In Belgium, students, who plan on studying for more than one year need to apply for a residence permit card. It is an electronic card with your personal information used by the institutions in Belgium. It stores different types of information like address, medical records etc.
 
