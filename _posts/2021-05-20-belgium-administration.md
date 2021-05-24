@@ -5,7 +5,7 @@ category: belgium
 tag: administration
 read_time: true
 published: true
-image: /assets/images/belgium_administration.png
+image: /assets/images/belgium_administration.jpeg
 author: karol
 ---
 After the long break, we are back with a new post! As it is written in the title, this post will discuss all administrative affairs related to finalizing the registration processes at KU Leuven. Firstly, it is important to mention that there are two types of exchanges between KEDGE BS and KU Leuven students, so information for both types of exchanges will be provided. However, for anyone else (not KEDGE students), the classic exchanges information should be applied for the exchange between your home university and KUL.
