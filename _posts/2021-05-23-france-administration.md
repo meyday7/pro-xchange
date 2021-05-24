@@ -5,7 +5,7 @@ category: france
 tag: administration
 read_time: true
 published: true
-image: /assets/images/france_administration.png
+image: /assets/images/administration_france.png
 author: daiana
 ---
 After a while, we are ready and steady for another blog post. This week we will explain everything regarding the administration requirements KU Leuven students need to fulfil for their exchange to KEDGE BS.
