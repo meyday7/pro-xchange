@@ -73,4 +73,18 @@ This is one of the most famous bars in Brussels, so you might have heard about i
 
 Look for it right [here!](https://g.page/deliriumvillage?share)
 
+### Fuse
+
+And the last place you might wanna visit is Fuse! This is a club known for its techno sets, so if you like that, this is your place to check. I can't tell much more about myself though... (yeah, latino is more of my thing :P)
+
+You can find the club right [here!](https://g.page/fusebrussels?share)
+
+## Closing words
+
+This way I have discussed some of the places I recommend checking out, to grab some food or to party. While there are more places worth recommending, those were the most important ones (at least in my opinion). But while you will be on your exchange, you might find some other places that are worth it!
+
+Also, in the upcoming posts I will write more about tourism and culture in Belgium, so to find out more about them make sure you follow our social media's. Whenever new blog posts will appear, that's where you will find the link and info! With any other questions, make sure you leave comments below or send us an email, Daiana and I are more than happy to discuss some other questions you might have :)
+
+Thank you a bunch for reading this post and I hope you have a good day!
+
 
