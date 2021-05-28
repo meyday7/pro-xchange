@@ -55,7 +55,7 @@ There are many Manhattn's around Belgium, including a few in Brussels, so just g
 
 There are also two places right next to campus Brussels, where you can grab some food (excluding cafeteria and restaurant in school, which aren't that bad either)!
 
-![]({{site.baseurl}}//assets/images/cuppasta.jpg)
+![]({{site.baseurl}}/assets/images/cuppasta.jpg)
 
 The first one is **Cup Pasta**. Inexpensive, quick pasta to grab when you have a lunch break or you stay at school after classes. You get to choose the type of pasta (carbonara, bolognese etc.), the shape of the pasta (fusilli, penne), spiciness and the size. During exam periods, if staying at school, this place can become your friend, so make sure to give it a try!
 
