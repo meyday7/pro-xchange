@@ -4,7 +4,7 @@ title: Student's life in France
 category: france
 tag: Student's life
 read_time: true
-published: false
+published: true
 image: /assets/images/france_students.png
 author: daiana
 ---
@@ -22,7 +22,7 @@ Steak N shake has been one of the first places Karol and I went to when we arriv
 
 You can have a look at the menu on their official website [here](https://steaknshake.fr/menus/).
 
-
+![]({{site.baseurl}}/assets/images/steak.png)
 
 ### 3 Brasseurs
 
@@ -30,7 +30,7 @@ This is without any doubt the best restaurant I have ever eaten in my entire lif
 
 And if you are not convinced, check their website [here](https://www.3brasseurs.com/cuisine-des-3brasseurs).
 
-
+![]({{site.baseurl}}/assets/images/brasseurs.png)
 
 ### La bougnette
 
@@ -38,7 +38,7 @@ This place is a local pizzeria located in the 5th arrondissement. The place itse
 
 If you want to know more about this restaurant then click this [link](https://labougnettepizza.eatbu.com/?lang=fr).
 
-
+![]({{site.baseurl}}/assets/images/labougnette.png)
 
 ### Noailles market
 
@@ -46,7 +46,7 @@ Marseille is placed in a region that is more expensive compared to the rest of F
 
 The market is there every day between the hours mentioned [here](https://www.marseille-tourisme.com/offres/marche-de-noailles-marseille-1er-fr-2781347/).
 
-
+![]({{site.baseurl}}/assets/images/noailles.png)
 
 ## Bars and night life
 
@@ -56,7 +56,7 @@ This bar is very well known to students from KEDGE and young people in general. 
 
 If you want to know more, the click this link to be redirected to their official [website](https://en.pub-shamrock.com).
 
-
+![]({{site.baseurl}}/assets/images/shamrock.png)
 
 ### Other pubs and clubs
 
@@ -66,7 +66,7 @@ The list for bars can be found [here](https://www.tripadvisor.com/Attractions-g1
 
 And for more night life please click [here](https://theculturetrip.com/europe/france/articles/a-nightlife-guide-to-marseille-france/).
 
-
+![]({{site.baseurl}}/assets/images/clubs.png)
 
 ## Study life at KEDGE
 
@@ -89,7 +89,7 @@ The first reason is the campus itself. In comparison with the campus in Brussels
 
 Another reason is the distance between professors and students. As you know, at KU Leuven, professors are very distant from students. This is not the case at KEDGE. Due to the smaller number of students in a classroom, as a student, you can form a closer bond with your professors. This helps you understand the concepts better, you can ask questions easily and you can even have a chat with your professors. This is one of the things I appreciate here at KEDGE.
 
-
+![]({{site.baseurl}}/assets/images/kedge.png)
 
 ## Some final words
 
