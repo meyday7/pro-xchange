@@ -4,8 +4,8 @@ title: Student's life in Belgium
 category: belgium
 tag: Student's life
 read_time: true
-published: false
-image: null
+published: true
+image: /assets/images/belgium_student.png
 author: karol
 ---
 Given that you followed each stage of preparation for your exchange up until now, you are ready to study at KU Leuven! That is great, but for this experience to be truly memorable, it takes more. One of the things that will enhance your experience is how students spend their time in Brussels! So today's post is dedicated to **student's life in Belgium**.
