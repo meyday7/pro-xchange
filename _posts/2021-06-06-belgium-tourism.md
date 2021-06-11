@@ -13,23 +13,26 @@ Welcome everyone for this week's post! This time, I will be discussing different
 If you are just looking for different places to visit, below I provide the list of places to check during your exchange:
 
 * Brussels
-	- Grand Place
-    - Atomium
-    - Galerie Saint-Hubert
-    - Pissing statues
-    - Comic strip museum
+	- The Grand Place
+    - The Atomium
+    - The Royal Saint-Hubert Galleries
+    - Peeing statues
+    - The Belgian Comic Strip Cente
 * European District
-	- Place de Luxembourg
+	- Place du Luxembourg
     - Parlamentarium
-    - Parc de Cenquentenaire
-* Knokke
-* Brugge
-* Denant
-* Namen
+    - The Parc du Cinquantenaire
+* Knokke-Heist
+* Bruges
+* Dinant
+* Namur
 
 However, I still recommend checking the post for more information and useful links!
 
 ## Brussels
 
-Kicking off with a place you will spent most of your time in, I will
+Kicking off with a city where you will spent most of your time in! It has a rich cultural legacy and there is plenty of things to check.
 
+### The Grand Place
+
+The should be the first site you will visit in Brussels. The square in the heart of the old town is a place of different festivities and generally a good meeting point. During different seasons, you can find there the floral display, christmas tree and animations, horse riding display done by Brussels police and light show! There is also plenty of restaurants and shops nearby.
