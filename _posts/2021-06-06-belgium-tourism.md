@@ -14,15 +14,15 @@ Below you can find a summarized list of interesting spots:
 
 * Brussels
 	- The Grand Place
-    - The Royal Saint-Hubert Galleries
-    - Peeing statues
-    - The Belgian Comic Strip Center
-    - The Atomium
+  - The Royal Saint-Hubert Galleries
+  - Peeing statues
+  - The Belgian Comic Strip Center
+  - The Atomium
 * European quarter
 	- Berlaymont
 	- Place du Luxembourg
-    - Parlamentarium
-    - The Parc du Cinquantenaire
+  - Parlamentarium
+  - The Parc du Cinquantenaire
 * Knokke-Heist
 * Bruges
 * Dinant
