@@ -4,7 +4,7 @@ title: Tourism in Belgium
 category: belgium
 tag: Tourism
 read_time: true
-published: false
+published: true
 image: /assets/images/belgium_tourism.jpeg
 author: karol
 ---
@@ -38,13 +38,23 @@ Kicking off with a city where you will spend most of your time! It has a rich cu
 
 The should be the first site you will visit in Brussels. The square in the heart of the old town is a place of different festivities and generally a good meeting point. During different seasons, you can find there the floral display, Christmas tree and animations, horse riding display done by Brussels police and light shows! There is also plenty of restaurants and shops nearby. Make sure to look out for golden statues on top of the buildings encircling this square.
 
+![]({{site.baseurl}}/assets/images/grand_place.jpg)
+
 ### The Royal Saint-Hubert Galleries
 
 From the Grand Place, you can start looking for the wonderful gallery. Full of amazing chocolate shops, elegant shops and popular cafes, the gallery gets even more beautiful at night. The beautiful lights give more warmth and elegance. During some seasons the gallery displays a light show with beautiful music. Truly heart-warming!
 
+![]({{site.baseurl}}/assets/images/gallery.jpg)
+
 ### Peeing statues
 
 This one might be surprising. There are _three_ statues spread around the old town showing people and animal pissing. Those statues were supposed to be a sort of symbol of the people of Brussels. They represent their sense of humour and freedom of mind. The first statue is the **Manneken Pis** or in English 'Little Pissing Man'. The second one is **Jeanneke Pis**, which you can find right next to Delirium Cafe (for more info about the bar check [this link](https://pro-xchange.me/belgium/2021/05/30/belgium-students.html)). Lastly, the boy and girl couldn't do it without a dog. That is why you can also look for **Het Zinneke**, which without any surprises, is also pissing. A quirky bit of Brussels!
+
+![]({{site.baseurl}}/assets/images/manneken_pis.jpg)
+
+![]({{site.baseurl}}/assets/images/jeanneke_pis.jpg)
+
+![]({{site.baseurl}}/assets/images/het_zinneke.jpg)
 
 ### The Belgian Comic Strip Center
 
@@ -54,6 +64,8 @@ Before I mention this place, it is important to understand the position of comic
 
 The last attraction of Brussels that I will cover in this post is the **Atomium**, which is a 165 billion times bigger representation of iron crystal cell. Built for Expo in 1958, it currently stands as a meeting point, as well as a venue for many events, including concerts. It's a popular place among students for concerts with techno music, as well as job fairs. You can also find Kinepolis nearby, so you can go for one visit and check out these two things!
 
+![]({{site.baseurl}}/assets/images/atomium.jpg)
+
 ## The European Quarter
 
 Brussels is also a politically important city. This is where many European Union institutions are settled. At the same time, to make it as appealing as possible to any visitors, as well as to honour important personalities in the history of Europe, the district has lots of greenery and is built with a very modern approach. Unlike the rest of Brussels, which still holds to its old walls and buildings, European Quarter is modern, full of glass buildings matching each other. This is a part of Brussels, which can be enjoyed just by walking around  - the views are wonderful. However, to make this post more precise, I will list the main places to visit in European Quarter, as well as some places you might not have heard about online.
@@ -62,9 +74,13 @@ Brussels is also a politically important city. This is where many European Union
 
 If you travel by metro, you can start your journey around the quarter by leaving at _Schuman_ metro station. Once you get out, you should see the building as in the photo above. _It really is majestic!_ This is the **Berlaymont** building. More precisely, this is where the headquarters of the European Commission are found. As a fun fact, the unique look of this building is also found on the emblem of the European Commission. The Schuman roundabout is a good starting point for visiting the quarter.
 
+![]({{site.baseurl}}/assets/images/berlaymont.jpg)
+
 ### Place du Luxembourg
 
 Some of the people interest in European politics might notice that many TV stations when there are meetings held in the European Parlament, will report from this square. It is found right in front of the Parlament itself. This is where all the buzz is after hours, especially for the employees of the offices around. As you will head towards the European Parlament, make sure to go through **Station Europe**, where you can learn more about visiting EU institutions, as well as to check the model of the whole area.
+
+![]({{site.baseurl}}/assets/images/place_lux.jpg)
 
 ### Parlamentarium
 
@@ -82,13 +98,19 @@ Leaving Brussels now, you might want to go to the beach. That's where **Knooke-H
 
 This city is a piece of art itself. The well-maintained, historic city of Bruges will bring you back in time. Listed in the UNESCO World Heritage List, the city is a nice place to spend a day in, just walking around the canal and other small streets of the city. There is always something hidden. You can also find the shops will a choice of over a thousand beers to buy, as well as nice chocolate shops. There are also many restaurants, so when hunger will come, you can choose from many local places. I can recommend the _Otomat_ pizzeria. Make sure you also check the park, as it nicely accompanies the city and adds to its ambience.
 
+![]({{site.baseurl}}/assets/images/bruges.jpg)
+
 ## Dinant
 
 This is more of a historic site. The city of Dinant, which remained in big part intact from the old times is another treat of Belgium. The colourful houses make this city look magical. The main landmarks to visit are the **Citadel of Dinant**, as well as the **Collegiate Church of Our Lady**. The citadel used to be an important defence point during World War I. Moreover, the city of Dinant is placed in Wallonia, so it might be a great opportunity to discover the other part of Belgium.
 
+![]({{site.baseurl}}/assets/images/dinant.jpg)
+
 ## Namur
 
 And here comes the last element on our tourism list for Belgium: **Namur**. Similarly to Dinant, Namur is famous for its Citadel, which had military importance in defending Belgium. The Cathedral found in the city is listed in the UNESCO World Heritage List. Namur is also the capital of Wallonia, as well as the city hosts the Wallonian parliament.
+
+![]({{site.baseurl}}/assets/images/namur.jpg)
 
 ## Conclusion
 
