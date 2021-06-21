@@ -4,7 +4,7 @@ title: Checklist for exchange!
 categories: belgium france
 tag: Checklist
 read_time: false
-published: false
+published: true
 image: null
 author: karol
 ---
